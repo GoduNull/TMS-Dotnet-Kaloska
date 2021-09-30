@@ -25,6 +25,21 @@ namespace TeachMeSkills.Kaloska.Homework3_1
             return date;
             
         }
+        public static void AllDayofweek(DateTime date)
+        {
+            var dates = new List<DateTime>();
+            for (int i = 1; i <= DateTime.DaysInMonth(date.Year, date.Month); i++)
+            {
+                dates.Add(new DateTime(date.Year, date.Month, i));
+            }
+            foreach (var c in dates)
+            {
+                if (c.DayOfWeek == date.DayOfWeek)
+                {
+                    Console.WriteLine(c.ToString("D"));
+                }
+            }
+        }
     }
     class Program
     {
@@ -32,7 +47,7 @@ namespace TeachMeSkills.Kaloska.Homework3_1
         {
             Console.WriteLine("Введите дату ");
             string dateInput = Console.ReadLine();
-            //WeekDayHandler.AllDayofweek(WeekDayHandler.DayOfWeek(dateInput));
+            WeekDayHandler.AllDayofweek(WeekDayHandler.DayOfWeek(dateInput));
             Console.ReadKey();
         }
     }
