@@ -7,7 +7,9 @@ namespace TeachMeSkills.Kaloska.Homework4
     {
         static void Main(string[] args)
         {
-            
+            var diary = new DiaryManager();
+            diary.Show();
+            Console.ReadKey();
         }
     }
 }
