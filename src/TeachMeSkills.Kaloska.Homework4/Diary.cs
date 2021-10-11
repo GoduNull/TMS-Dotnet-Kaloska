@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TeachMeSkills.Kaloska.Homework4
 {
-    class Class1
+    class Diary
     {
+
     }
 }
