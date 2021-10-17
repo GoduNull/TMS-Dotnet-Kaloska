@@ -1,4 +1,6 @@
 ﻿using System;
+using TeachMeSkills.Kaloska.Homework5.Managers;
+using TeachMeSkills.Kaloska.Homework5.Models;
 
 namespace TeachMeSkills.Kaloska.Homework5
 {
@@ -6,7 +8,9 @@ namespace TeachMeSkills.Kaloska.Homework5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ZooManager zoo = new ZooManager();
+            zoo.StartZoo();
+            Console.ReadKey();
         }
     }
 }
