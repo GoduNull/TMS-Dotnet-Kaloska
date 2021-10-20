@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Kaloska.Homework1", "src\TeachMeSkills.Kaloska.Homework1\TeachMeSkills.Kaloska.Homework1.csproj", "{35BB53BC-8955-4C1F-AE43-67DC230D4BDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Kaloska.Homework3_1", "src\TeachMeSkills.Kaloska.Homework3_1\TeachMeSkills.Kaloska.Homework3_1.csproj", "{550C7284-BEE7-4302-95BF-326308B26773}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Kaloska.Homework3_1", "src\TeachMeSkills.Kaloska.Homework3_1\TeachMeSkills.Kaloska.Homework3_1.csproj", "{550C7284-BEE7-4302-95BF-326308B26773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Kaloska.Homework7", "src\TeachMeSkills.Kaloska.Homework7\TeachMeSkills.Kaloska.Homework7.csproj", "{261881BF-1C93-4A05-861F-C66769A319C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{550C7284-BEE7-4302-95BF-326308B26773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{550C7284-BEE7-4302-95BF-326308B26773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{550C7284-BEE7-4302-95BF-326308B26773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261881BF-1C93-4A05-861F-C66769A319C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261881BF-1C93-4A05-861F-C66769A319C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261881BF-1C93-4A05-861F-C66769A319C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261881BF-1C93-4A05-861F-C66769A319C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
