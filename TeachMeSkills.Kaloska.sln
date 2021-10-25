@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Kaloska.Homew
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Kaloska.Homework3_1", "src\TeachMeSkills.Kaloska.Homework3_1\TeachMeSkills.Kaloska.Homework3_1.csproj", "{550C7284-BEE7-4302-95BF-326308B26773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Kaloska.Homework6", "src\TeachMeSkills.Kaloska.Homework6\TeachMeSkills.Kaloska.Homework6.csproj", "{E7CE3E49-DFA5-46E3-8F09-72E80FEB046F}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Kaloska.Homework5", "src\TeachMeSkills.Kaloska.Homework5\TeachMeSkills.Kaloska.Homework5.csproj", "{B3CEA2D6-091C-4075-A1B0-1D0A3201ABE4}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Kaloska.Homework4", "src\TeachMeSkills.Kaloska.Homework4\TeachMeSkills.Kaloska.Homework4.csproj", "{D7790D25-D68F-4EE8-A22B-4695A5C5F59D}"
 EndProject
@@ -24,6 +25,10 @@ Global
 		{550C7284-BEE7-4302-95BF-326308B26773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{550C7284-BEE7-4302-95BF-326308B26773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{550C7284-BEE7-4302-95BF-326308B26773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CE3E49-DFA5-46E3-8F09-72E80FEB046F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CE3E49-DFA5-46E3-8F09-72E80FEB046F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CE3E49-DFA5-46E3-8F09-72E80FEB046F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CE3E49-DFA5-46E3-8F09-72E80FEB046F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B3CEA2D6-091C-4075-A1B0-1D0A3201ABE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B3CEA2D6-091C-4075-A1B0-1D0A3201ABE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3CEA2D6-091C-4075-A1B0-1D0A3201ABE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
